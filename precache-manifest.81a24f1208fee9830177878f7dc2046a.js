@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/marvel/static/media/news01.c79b79c6.jpg"
   },
   {
-    "revision": "39cc02ec00c37b1a1569",
+    "revision": "a17107e1890af0a9926c",
     "url": "/marvel/static/css/main.98411352.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/marvel/static/media/home.e93db6e8.jpg"
   },
   {
-    "revision": "39cc02ec00c37b1a1569",
-    "url": "/marvel/static/js/main.39cc02ec.chunk.js"
+    "revision": "a17107e1890af0a9926c",
+    "url": "/marvel/static/js/main.a17107e1.chunk.js"
   },
   {
     "revision": "8b5eb4220612728f54ea27b830656988",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/marvel/static/media/characters.7545054c.jpg"
   },
   {
-    "revision": "f69304d6c309f9aa012cfb070115025d",
+    "revision": "841fc1b936f70d37dbd116f1042ea993",
     "url": "/marvel/index.html"
   }
 ];
