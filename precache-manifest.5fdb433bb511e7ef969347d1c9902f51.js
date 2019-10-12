@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/marvel/static/media/characters.7545054c.jpg"
   },
   {
-    "revision": "5c90adee87241ab99d1f47c6e6dac57d",
+    "revision": "9e23caefb00bd78cc8954885eaf3f7b7",
     "url": "/marvel/index.html"
   }
 ];
