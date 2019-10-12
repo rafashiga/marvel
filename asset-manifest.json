@@ -1,7 +1,7 @@
 {
   "main.css": "/marvel/static/css/main.98411352.chunk.css",
-  "main.js": "/marvel/static/js/main.41c26ee3.chunk.js",
-  "main.js.map": "/marvel/static/js/main.41c26ee3.chunk.js.map",
+  "main.js": "/marvel/static/js/main.68743084.chunk.js",
+  "main.js.map": "/marvel/static/js/main.68743084.chunk.js.map",
   "static/js/1.a5b25ee6.chunk.js": "/marvel/static/js/1.a5b25ee6.chunk.js",
   "static/js/1.a5b25ee6.chunk.js.map": "/marvel/static/js/1.a5b25ee6.chunk.js.map",
   "runtime~main.js": "/marvel/static/js/runtime~main.7fc91726.js",
@@ -14,6 +14,6 @@
   "static/media/news01.jpg": "/marvel/static/media/news01.c79b79c6.jpg",
   "static/css/main.98411352.chunk.css.map": "/marvel/static/css/main.98411352.chunk.css.map",
   "index.html": "/marvel/index.html",
-  "precache-manifest.71bad239ded97c1ea6eac02bef536080.js": "/marvel/precache-manifest.71bad239ded97c1ea6eac02bef536080.js",
+  "precache-manifest.d254ed6693f0dc4a80be2605c6432835.js": "/marvel/precache-manifest.d254ed6693f0dc4a80be2605c6432835.js",
   "service-worker.js": "/marvel/service-worker.js"
 }
